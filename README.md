@@ -1,6 +1,5 @@
 # Crazy To-Do List Application
 
-=====================================
 
 ## 📝 Description
 The Crazy To-Do List is a modern, feature-rich task management application built with Python. It provides an intuitive interface for managing daily tasks with advanced features like task categorization, priority levels, due dates, and more.
